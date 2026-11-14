@@ -11347,17 +11347,6 @@
         },
         {
             "author": "smthemex",
-            "title": "ComfyUI_Diffree",
-            "id": "comfyui_diffree",
-            "reference": "https://github.com/smthemex/ComfyUI_Diffree",
-            "files": [
-                "https://github.com/smthemex/ComfyUI_Diffree"
-            ],
-            "install_type": "git-clone",
-            "description": "using diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model"
-        },
-        {
-            "author": "smthemex",
             "title": "ComfyUI_Stable_Makeup",
             "id": "Stable_Makeup",
             "reference": "https://github.com/smthemex/ComfyUI_Stable_Makeup",
@@ -11463,16 +11452,6 @@
             ],
             "install_type": "git-clone",
             "description": "Long-Duration and High-Resolution Audio-driven Portrait Image Animation,"
-        },
-        {
-            "author": "smthemex",
-            "title": "ComfyUI_OmniParser",
-            "reference": "https://github.com/smthemex/ComfyUI_OmniParser",
-            "files": [
-                "https://github.com/smthemex/ComfyUI_OmniParser"
-            ],
-            "install_type": "git-clone",
-            "description": "Try [a/OmniParser](https://github.com/microsoft/OmniParser) in ComfyUI which a simple screen parsing tool towards pure vision based GUI agent."
         },
         {
             "author": "smthemex",
@@ -44911,16 +44890,6 @@
             "description": "A comprehensive suite of video quality assessment metrics for ComfyUI including fidelity metrics, temporal metrics, distributional metrics, and deep learning-based quality evaluation."
         },
         {
-            "author": "Candlehead",
-            "title": "Candlehead-Comfy-Nodez",
-            "reference": "https://github.com/Candlehead/Candlehead-Comfy-Nodez",
-            "files": [
-                "https://github.com/Candlehead/Candlehead-Comfy-Nodez"
-            ],
-            "install_type": "git-clone",
-            "description": "Comprehensive suite of utility nodes for ComfyUI including AspectToRes, ImageInfo, and TextProcessor for image processing workflows."
-        },
-        {
             "author": "Meisoftcoltd",
             "title": "comfyui-sequential-batcher",
             "reference": "https://github.com/Meisoftcoltd/comfyui-sequential-batcher",
@@ -46843,16 +46812,6 @@
             ],
             "install_type": "git-clone",
             "description": "Auto-arrange workflow nodes with 4 layout algorithms, group-aware positioning, alignment tools, and undo"
-        },
-        {
-            "author": "evrardt",
-            "title": "ComfyUI-Spectrum",
-            "reference": "https://github.com/evrardt/ComfyUI-Spectrum",
-            "files": [
-                "https://github.com/evrardt/ComfyUI-Spectrum"
-            ],
-            "install_type": "git-clone",
-            "description": "Spectrum-style acceleration path for FLUX in ComfyUI."
         },
         {
             "author": "Damkohler",
@@ -49000,6 +48959,66 @@
             ],
             "install_type": "git-clone",
             "description": "Variables Board is a floating control center for ComfyUI workflows that centralizes parameters into a customizable overlay."
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Clone Output",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-clone-output",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-clone-output"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Clone Output"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Color Correct",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-color-correct",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-color-correct"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Color Correct"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Dropdown",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-dropdown",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-dropdown"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Dropdown"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Alert",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-alert",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-alert"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Alert"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Booleangate",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-booleangate",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-booleangate"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Booleangate"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Delay",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-delay",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-delay"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Delay"
         },
         {
             "author": "hassan-mb",
@@ -52198,16 +52217,6 @@
             "description": "A ComfyUI node that automatically computes optimal width/height for supported models, aspect ratios, and generation modes with instant feedback."
         },
         {
-            "author": "catnipglitch",
-            "title": "comfyui-google-genmedia-custom-nodes",
-            "reference": "https://github.com/catnipglitch/comfyui-genmedia-gemini-api",
-            "files": [
-                "https://github.com/catnipglitch/comfyui-genmedia-gemini-api"
-            ],
-            "install_type": "git-clone",
-            "description": "ComfyUI custom nodes for Google GenMedia models (Veo, Imagen, Nano Banana, Gemini, Virtual-try-on, Lyria) with Gemini API key and Vertex AI dual auth support"
-        },
-        {
             "author": "CentralFloridaAttorney",
             "title": "ComfyUI-ZMongo",
             "reference": "https://github.com/CentralFloridaAttorney/ComfyUI-ZMongo",
@@ -52646,16 +52655,6 @@
             ],
             "install_type": "git-clone",
             "description": "ComfyUI custom nodes for RecGen 2D RGB-D to 3D reconstruction"
-        },
-        {
-            "author": "kallama",
-            "title": "comfyui_epub_tts",
-            "reference": "https://github.com/kallama/comfyui_epub_tts",
-            "files": [
-                "https://github.com/kallama/comfyui_epub_tts"
-            ],
-            "install_type": "git-clone",
-            "description": "Convert EPUB's into audiobooks using TTS nodes"
         },
         {
             "author": "Kentskooking",
@@ -54262,26 +54261,6 @@
             ],
             "install_type": "git-clone",
             "description": "Wire Loom nodes for organizing and bundling wires in ComfyUI workflows into reusable streams. (Description by CC)"
-        },
-        {
-            "author": "veoreg",
-            "title": "ComfyUI-ForcedAlignTimings",
-            "reference": "https://github.com/veoreg/ComfyUI-ForcedAlignTimings",
-            "files": [
-                "https://github.com/veoreg/ComfyUI-ForcedAlignTimings"
-            ],
-            "install_type": "git-clone",
-            "description": "Word-level forced alignment for the Synthy/iRead custom TTS provider that aligns generated speech against known input text and returns per-word timings."
-        },
-        {
-            "author": "veoreg",
-            "title": "ComfyUI-SmartGridCutter",
-            "reference": "https://github.com/veoreg/ComfyUI-SmartGridCutter",
-            "files": [
-                "https://github.com/veoreg/ComfyUI-SmartGridCutter"
-            ],
-            "install_type": "git-clone",
-            "description": "Universal grid image splitter for ComfyUI that automatically detects grid layout by analyzing brightness/contrast and splits any grid image into individual frames."
         },
         {
             "author": "julienpmorand",
@@ -62377,6 +62356,16 @@
             ],
             "install_type": "git-clone",
             "description": "Seren Sampler: momentum-predicted, tolerance-controlled rectified flow sampling, for ComfyUI (Anima family)"
+        },
+        {
+            "author": "seren-alegro",
+            "title": "Adaptive Flow",
+            "reference": "https://github.com/seren-alegro/ComfyUI-AdaptiveFlow",
+            "files": [
+                "https://github.com/seren-alegro/ComfyUI-AdaptiveFlow"
+            ],
+            "install_type": "git-clone",
+            "description": "Tolerance-driven adaptive step sampler for rectified flow, for ComfyUI (Anima family)"
         },
         {
             "author": "meareabc",

@@ -1,6 +1,76 @@
 {
     "custom_nodes": [
         {
+            "author": "IA-gyz",
+            "title": "Magik Delay",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-delay",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-delay"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Delay"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Booleangate",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-booleangate",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-booleangate"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Booleangate"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Alert",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-alert",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-alert"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Alert"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Dropdown",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-dropdown",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-dropdown"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Dropdown"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Color Correct",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-color-correct",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-color-correct"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Color Correct"
+        },
+        {
+            "author": "IA-gyz",
+            "title": "Magik Clone Output",
+            "reference": "https://github.com/IA-gyz/comfyui-magik-clone-output",
+            "files": [
+                "https://github.com/IA-gyz/comfyui-magik-clone-output"
+            ],
+            "install_type": "git-clone",
+            "description": "Magik Clone Output"
+        },
+        {
+            "author": "seren-alegro",
+            "title": "Adaptive Flow",
+            "reference": "https://github.com/seren-alegro/ComfyUI-AdaptiveFlow",
+            "files": [
+                "https://github.com/seren-alegro/ComfyUI-AdaptiveFlow"
+            ],
+            "install_type": "git-clone",
+            "description": "Tolerance-driven adaptive step sampler for rectified flow, for ComfyUI (Anima family)"
+        },
+        {
             "author": "an80sPWNstar",
             "title": "ComfyUI Watcher",
             "id": "comfyui-watcher",
